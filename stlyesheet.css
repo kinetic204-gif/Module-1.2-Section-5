@@ -128,7 +128,7 @@ section p {
     flex-wrap: wrap;
 }
 p {
-    margin: ;
+    margin: 8px;
     display: flex;
     justify-content: center;
     align-items: center;
